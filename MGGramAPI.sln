@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MGram.DAL", "MGram.DAL\MGram.DAL.csproj", "{AFC4EB15-2A8A-42B9-9768-E81828841557}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MGram.ConsoleApp", "MGram.ConsoleApp\MGram.ConsoleApp.csproj", "{EB79E4D0-8CF0-4E9F-A5B6-8BAE7FFF2935}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFC4EB15-2A8A-42B9-9768-E81828841557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC4EB15-2A8A-42B9-9768-E81828841557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC4EB15-2A8A-42B9-9768-E81828841557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC4EB15-2A8A-42B9-9768-E81828841557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB79E4D0-8CF0-4E9F-A5B6-8BAE7FFF2935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB79E4D0-8CF0-4E9F-A5B6-8BAE7FFF2935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB79E4D0-8CF0-4E9F-A5B6-8BAE7FFF2935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB79E4D0-8CF0-4E9F-A5B6-8BAE7FFF2935}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BBEFEDF-9929-4DEC-9A14-260126D913C1}
+	EndGlobalSection
+EndGlobal

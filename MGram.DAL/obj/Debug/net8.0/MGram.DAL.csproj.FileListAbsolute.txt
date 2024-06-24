@@ -1,0 +1,14 @@
+C:\Users\mahes\source\repos\MGGramAPI\MGram.DAL\bin\Debug\net8.0\MGram.DAL.deps.json
+C:\Users\mahes\source\repos\MGGramAPI\MGram.DAL\bin\Debug\net8.0\MGram.DAL.runtimeconfig.json
+C:\Users\mahes\source\repos\MGGramAPI\MGram.DAL\bin\Debug\net8.0\MGram.DAL.dll
+C:\Users\mahes\source\repos\MGGramAPI\MGram.DAL\bin\Debug\net8.0\MGram.DAL.pdb
+C:\Users\mahes\source\repos\MGGramAPI\MGram.DAL\obj\Debug\net8.0\MGram.DAL.csproj.AssemblyReference.cache
+C:\Users\mahes\source\repos\MGGramAPI\MGram.DAL\obj\Debug\net8.0\MGram.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahes\source\repos\MGGramAPI\MGram.DAL\obj\Debug\net8.0\MGram.DAL.AssemblyInfoInputs.cache
+C:\Users\mahes\source\repos\MGGramAPI\MGram.DAL\obj\Debug\net8.0\MGram.DAL.AssemblyInfo.cs
+C:\Users\mahes\source\repos\MGGramAPI\MGram.DAL\obj\Debug\net8.0\MGram.DAL.csproj.CoreCompileInputs.cache
+C:\Users\mahes\source\repos\MGGramAPI\MGram.DAL\obj\Debug\net8.0\MGram.DAL.dll
+C:\Users\mahes\source\repos\MGGramAPI\MGram.DAL\obj\Debug\net8.0\refint\MGram.DAL.dll
+C:\Users\mahes\source\repos\MGGramAPI\MGram.DAL\obj\Debug\net8.0\MGram.DAL.pdb
+C:\Users\mahes\source\repos\MGGramAPI\MGram.DAL\obj\Debug\net8.0\MGram.DAL.genruntimeconfig.cache
+C:\Users\mahes\source\repos\MGGramAPI\MGram.DAL\obj\Debug\net8.0\ref\MGram.DAL.dll
